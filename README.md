@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently learning Ruby/Rails stack, looking for job opportunities.
+I'm currently learning React/Rails stack, looking for job opportunities.
 
 
 ## 🌐 Socials:
